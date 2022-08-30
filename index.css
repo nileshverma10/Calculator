@@ -1,0 +1,38 @@
+body{
+    background-color: bisque;
+}
+
+.top{
+    margin-left: 550px;
+    font-style: italic;
+    font-size: 80px;
+    font-weight: bold;
+}
+
+.chat{
+  position: absolute;
+  margin-left: 550px;
+  margin-top: 10px;
+  background-color: brown;
+  margin-right: 610px;
+  border-radius: 20px;
+}
+
+.mat{
+    margin-left: 550px;
+    height: 40px;
+    width: 350px;   
+    border-radius: 20px;
+    font-size: larger;
+    background-color: antiquewhite;
+}
+
+button{
+   
+    height: 50px;
+    width: 80px;
+    font-size: larger;
+    margin-left: 5px;
+    border-radius: 10px;
+    background-color: aquamarine;
+}
